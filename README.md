@@ -16,7 +16,7 @@ It doesn’t follow the MVC pattern strictly but instead focuses on reusability 
 
 You can find this project in the abstracted-crud-app folder.
 
-# 3. MVC with Interfaces CRUD Web Application
+# 3. MVC with Interfaces using javafx library Application
 This application follows the MVC structure, enhanced with interfaces to improve flexibility and maintainability. The use of interfaces allows for a more modular approach to handling business logic, making the code clean, easy to manage, and adaptable for future changes.
 
 You can find this project in the SiMS-mvc-app folder.
