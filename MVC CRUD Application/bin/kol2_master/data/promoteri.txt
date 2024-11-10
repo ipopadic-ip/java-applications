@@ -1,0 +1,4 @@
+2|ilija|test|1110.00|1|/
+6|Ilija|Popadic|190.0|/|/
+ilija|ilija|popadic|111110.0|2|2
+5|test|test|1.1|/|Ilija

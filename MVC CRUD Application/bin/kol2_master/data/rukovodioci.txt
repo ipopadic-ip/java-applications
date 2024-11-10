@@ -1,0 +1,7 @@
+1|222|222|0.20|222|Nije realizovano
+3|4|4|0.00|3|Nije realizovano
+55|55|55|550.00|55|12.12.2023
+23|ilija|Popadic|120.00|doktor|22.12.2023
+test|test|test|0.40|test|Nije realizovano
+77|Milan|Miki|770.00|/|Nije realizovano
+test11|ilija|/|110.00|nema|23.12.2023
